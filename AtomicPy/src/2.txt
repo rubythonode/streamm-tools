@@ -1,0 +1,1155 @@
+Last login: Mon Jun 30 08:57:26 on ttys003
+NOTICE TO USERS: 
+This is a Federal computer system and is the property of the United States Government. It is for authorized use only.  Users (authorized or unauthorized) have no explicit or implicit expectation of privacy.
+
+Any or all uses of this system and all files on this system may be intercepted, monitored, recorded, copied, audited, inspected, and disclosed to authorized site, Department of Energy, and law enforcement personnel, as well as authorized officials of other agencies, both domestic and foreign. By using this system, the user consents to such interception, monitoring, recording, copying, auditing, inspection, and disclosure at the discretion of authorized site or Department of Energy personnel.
+
+Unauthorized or improper use of this system may result in administrative disciplinary action and civil and criminal penalties. By continuing to use this system you indicate your awareness of and consent to these terms and conditions of use.  LOG OFF IMMEDIATELY if you do not agree to the conditions stated in this warning.
+You have mail.
+mkdir: /Users/tkemper/scratch: File exists
+-bash: ulimit: open files: cannot modify limit: Invalid argument
+stc-24232s:src tkemper$ 
+stc-24232s:src tkemper$ ls
+__init__.py             basics.pyc              donoracceptorsystems.py fragments.py            make-pydocs.sh
+basics.py               decoration.py           enumerate.py            fragments.pyc
+stc-24232s:src tkemper$ cd
+stc-24232s:~ tkemper$ cd Downloads/
+stc-24232s:Downloads tkemper$ ls -altr
+total 5481024
+drwxr-xr-x@   6 tkemper  staff                        204 Jul 27  2011 ryowens84-Serial-Accelerometer-Dongle-1f2e848
+-rw-------    1 tkemper  staff                          0 Apr  8  2013 .localized
+-rw-r--r--    1 tkemper  staff                      12288 Sep 12  2013 .vibronic_fit.py.swp
+-rw-------    1 tkemper  staff                      12288 Nov 25  2013 .n.swp
+drwxr-xr-x@   6 tkemper  staff                        204 Jan 15 08:13 3-d_5_n
+drwxr-xr-x@   5 tkemper  staff                        170 Jan 15 08:13 3-d_5_a
+drwxr-xr-x   17 tkemper  staff                        578 Jan 29 08:25 opv-project
+drwxr-xr-x    2 tkemper  staff                         68 Jan 29 15:54 clone
+drwxr-xr-x   39 tkemper  staff                       1326 Feb  3 16:32 n1_eq
+drwxr-xr-x   61 tkemper  staff                       2074 Feb  4 20:52 n5_eq-branched
+drwxr-xr-x   11 tkemper  staff                        374 Feb 12 16:29 angle_test
+drwxr-xr-x   10 tkemper  staff                        340 Feb 13 09:28 PTMAsyn25
+drwxr-xr-x    3 tkemper  staff                        102 Feb 18 14:41 opv-project_2
+drwxr-xr-x@   8 tkemper  NREL_NT\Domain Users         272 Feb 19 21:54 MDTools-0.0.2
+drwxr-xr-x   45 tkemper  staff                       1530 Feb 20 09:24 testing
+drwxr-xr-x   12 tkemper  staff                        408 Feb 27 15:43 symetry
+drwxr-xr-x   11 tkemper  staff                        374 Feb 27 16:24 grp_min
+drwxrwxr-x    9 tkemper  staff                        306 Feb 28 09:12 acc1_D100_n2-ZMATTIGHT
+drwxrwxr-x    7 tkemper  staff                        238 Feb 28 09:34 acc1_D100_n8-ZMATTIGHT
+drwxrwxr-x    9 tkemper  staff                        306 Feb 28 09:40 acc1_D100_n3-ZMATTIGHT
+drwxrwxr-x    7 tkemper  staff                        238 Feb 28 09:42 acc1_D100_n4-ZMATTIGHT
+drwxrwxr-x    7 tkemper  staff                        238 Feb 28 09:43 acc1_D100_n5-ZMATTIGHT
+drwxrwxr-x    8 tkemper  staff                        272 Feb 28 09:46 acc1_D100_n7-ZMATTIGHT
+drwxrwxr-x    8 tkemper  staff                        272 Feb 28 09:47 acc1_D100_n9-ZMATTIGHT
+drwxrwxr-x    7 tkemper  staff                        238 Feb 28 09:48 acc1_D100_n10-ZMATTIGHT
+drwxrwxr-x    7 tkemper  staff                        238 Feb 28 09:48 acc1_D100_n11-ZMATTIGHT
+drwxrwxr-x    7 tkemper  staff                        238 Feb 28 09:49 acc1_D100_n12-ZMATTIGHT
+drwx------@   4 tkemper  staff                        136 Mar  1 17:16 Serial Accelerometer Dongle v21
+drwxr-xr-x    6 tkemper  staff                        204 Mar  4 13:10 acc1_D100_n2-D10_90_auxfix
+drwxrwxr-x   29 tkemper  staff                        986 Mar 13 21:15 D1_R2R200_A48
+drwxr-xr-x   19 tkemper  staff                        646 Mar 14 14:45 B3LYP-6-31Gdp
+drwxr-xr-x   17 tkemper  staff                        578 Mar 17 18:31 D100n2
+-rw-r--r--@   1 tkemper  NREL_NT\Domain Users    35415177 Mar 18 06:39 JHU_PChem_opv_orb.pptx
+-rw-r--r--    1 tkemper  staff                       5367 Mar 18 16:13 D1_R2R200_A23_R4_n1_R41n1R41n1R42n1__n1.gro
+-rw-r--r--    1 tkemper  staff                       2481 Mar 18 16:17 acc1_D1_R2R200_A48n1_R41n1R41n1__n1.xyz
+-rw-r--r--    1 tkemper  staff                       4737 Mar 18 16:55 D1_R2R200_A2_R3_n1_R41n1R41n1R40n1__n1.gro
+-rw-r--r--    1 tkemper  staff                      52492 Mar 18 16:55 EQ_1.xtc
+-rw-r--r--    1 tkemper  staff                    4494638 Mar 19 10:52 D1A1n5x197.gro
+-rw-r--r--    1 tkemper  staff                       3647 Mar 19 11:58 MIN1.gro
+-rw-r--r--    1 tkemper  staff                       3683 Mar 19 11:58 MIN1-W.gro
+-rw-r--r--    1 tkemper  staff                       3701 Mar 19 11:58 D1_R2R200_A48n1_R41n1R41n1__n1.gro
+drwxr-xr-x    7 tkemper  staff                        238 Mar 19 13:47 min_810
+-rw-r--r--    1 tkemper  staff                      37748 Mar 19 16:51 out.gro
+-rw-r--r--    1 tkemper  staff                      22898 Mar 19 16:51 MIN2-W.gro
+-rw-r--r--    1 tkemper  staff                      22898 Mar 19 16:51 D1A2.gro
+-rw-r--r--    1 tkemper  staff                      22898 Mar 19 16:51 D1A2-pbc.gro
+-rw-r--r--    1 tkemper  staff                        308 Mar 19 16:51 CHCl3.gro
+drwxr-xr-x   18 tkemper  staff                        612 Mar 21 10:15 bdt_x
+-rw-r--r--@   1 tkemper  staff                     101210 Mar 22 14:25 download.html
+-rw-r--r--@   1 tkemper  staff                      13277 Mar 22 18:23 trip.xlsx
+drwxrwxr-x   49 tkemper  staff                       1666 Mar 22 22:16 PTMAn24
+drwxrwxr-x   33 tkemper  staff                       1122 Mar 22 22:17 PTMAn48
+-rw-r--r--@   1 tkemper  staff                   50821147 Mar 25 16:13 jre-7u55-macosx-x64.dmg
+-rw-r--r--    1 tkemper  staff                       5740 Mar 25 16:42 acc1_D100_n2-D10_fflammps_fit.dat
+drwxrwxr-x   13 tkemper  staff                        442 Apr  1 12:25 acc1_D100_n6-ZMATTIGHT
+-rw-r--r--@   1 tkemper  staff                     307480 Apr  3 11:25 3deec5249ca83887b7.pdf
+-rw-r--r--    1 tkemper  staff                     845866 Apr  3 14:30 dd_dump_err_0_n0.pdb
+drwxr-xr-x    8 tkemper  staff                        272 Apr  4 18:53 proptest
+-rw-r--r--    1 tkemper  staff                    4508745 Apr  7 10:48 GRP_M2-W.gro
+-rw-r--r--    1 tkemper  staff                    6883799 Apr  7 10:53 n0.gro
+-rw-r--r--    1 tkemper  staff                    1160553 Apr  7 14:56 PTMAn48_C1_4en.xvg
+drwxr-xr-x    9 tkemper  staff                        306 Apr  8 10:50 PTMAn12
+-rw-r--r--    1 tkemper  staff                     136597 Apr 11 11:45 energy.xvg
+-rw-r--r--@   1 tkemper  staff                      53221 Apr 14 08:36 Sutton_CA_CV_formatted_working3.docx
+-rw-r--r--@   1 tkemper  staff                    1666618 Apr 15 12:50 image.jpeg
+-rw-r--r--    1 tkemper  staff                    3051520 Apr 15 14:29 min_640.chk
+-rw-r--r--    1 tkemper  staff                       2553 Apr 15 14:43 min_640.com
+-rw-r--r--    1 tkemper  staff                      34401 Apr 16 07:28 min_640.log
+-rw-r--r--    1 tkemper  staff                       5024 Apr 16 07:29 min_640o2.com
+-rw-r--r--    1 tkemper  staff                      27536 Apr 16 11:04 mk_ff.py
+-rw-r--r--    1 tkemper  staff                        225 Apr 16 15:03 dihtest.py
+drwxr-xr-x   16 tkemper  staff                        544 Apr 16 15:03 D100_ff
+-rw-------    1 tkemper  staff                      12288 Apr 18 14:44 .text.swp
+-rw-r--r--@   1 tkemper  NREL_NT\Domain Users    36415974 Apr 21 11:47 TKv3_RL.pptx
+-rw-r--r--@   1 tkemper  NREL_NT\Domain Users     5268994 Apr 21 20:03 MRS_S2014OPV_v1_RL.pptx
+-rw-r--r--@   1 tkemper  staff                      47489 Apr 23 09:26 Sutton_CA_CV_formatted_working4.docx
+drwxr-xr-x@   3 tkemper  NREL_NT\Domain Users         102 Apr 24 16:53 Cyberduck.app
+-rw-r--r--@   1 tkemper  staff                     200255 Apr 25 10:59 manuscript.acene_opt_clusters_4-7.docx
+-rw-r--r--@   1 tkemper  staff                     126750 May  6 13:52 Folio-A-Attachment.pdf
+-rw-r--r--    1 tkemper  staff                      45733 May  6 16:54 mol_system.gro
+-rw-r--r--    1 tkemper  staff                    4492049 May  7 09:25 gen.gro
+-rw-r--r--@   1 tkemper  staff                       2366 May  7 10:49 savedrecs.bib
+-rw-r--r--@   1 tkemper  staff                    2650207 May  7 13:07 HPCApps Capab 050714.pdf
+-rw-r--r--@   1 tkemper  staff                       2153 May  7 15:21 paperstest.bib
+-rw-r--r--@   1 tkemper  staff                       2469 May  7 15:54 savedrecs (1).bib
+-rw-r--r--@   1 tkemper  staff                       2537 May  7 16:32 savedrecs (2).bib
+-rw-r--r--    1 tkemper  staff                    4494659 May  7 23:25 gend2.gro
+-rw-r--r--@   1 tkemper  staff                       1103 May  8 10:13 RSC_.bib
+-rw-r--r--    1 tkemper  staff                       3484 May  8 10:38 p_1431_1787.xyz
+-rw-r--r--@   1 tkemper  staff                        374 May  8 10:44 1.1725697.bib
+-rw-r--r--    1 tkemper  staff                       3604 May  8 11:43 p_33n_34n.xyz
+-rw-r--r--@   1 tkemper  staff                      46127 May 12 10:38 mileage_expense.xlsx
+-rw-r--r--@   1 tkemper  staff                      72769 May 12 10:41 travelexp.xlsx
+-rw-r--r--@   1 tkemper  staff                     126537 May 12 10:50 Folio-A-Attachment (1).pdf
+drwxr-xr-x@  21 tkemper  NREL_NT\Domain Users         714 May 12 12:51 pymatgen-master
+-rw-r--r--@   1 tkemper  staff                   41616531 May 12 14:56 pymatgen-master.zip
+-rw-r--r--    1 tkemper  staff                  166330155 May 13 16:08 nvt_dump.xyz
+-rw-r--r--    1 tkemper  staff                    2771074 May 14 13:02 npt_dump.xyz
+-rw-r--r--    1 tkemper  staff                  365960971 May 14 14:10 npt2.xmol
+-rw-r--r--    1 tkemper  staff                    2876077 May 15 09:54 nvt_dump.xmol
+-rw-r--r--@   1 tkemper  staff                      99930 May 15 11:20 chainlength.pdf
+-rw-r--r--    1 tkemper  staff                      28203 May 16 14:01 softmin_dump.t452.xyz
+-rw-r--r--    1 tkemper  staff                      60846 May 16 14:19 softmin.xyz
+-rw-r--r--    1 tkemper  staff                     318724 May 16 14:40 nvt_dump.dcd
+-rw-r--r--@   1 tkemper  staff                  114606383 May 20 08:45 GSDNP_May2014.zip
+drwx------@  31 tkemper  NREL_NT\Domain Users        1054 May 20 08:45 GSDNP_May2014
+-rw-r--r--    1 tkemper  staff                    7431539 May 20 09:16 acc1_D100_n6-ZMATOPT.fchk
+-rw-r--r--    1 tkemper  staff                    7431539 May 20 09:16 acc1_D100_n6-ZMATOPT_v2.fchk
+-rw-r--r--    1 tkemper  staff                       3202 May 20 09:19 acc1_D100_n6-ZMATOPT_v3.com
+-rw-r--r--    1 tkemper  staff                    5215098 May 20 09:48 acc1_D100_n5-ZMATOPT.fchk
+-rw-r--r--    1 tkemper  staff                       2705 May 20 09:49 acc1_D100_n5-ZMATOPT_v3.com
+-rw-r--r--    1 tkemper  staff                   41957846 May 20 11:19 mol_system.data
+-rw-r--r--    1 tkemper  staff                        500 May 20 12:06 t
+-rw-r--r--    1 tkemper  staff                   55575375 May 20 12:12 npt3_dump.xyz
+-rw-r--r--    1 tkemper  staff                   67919688 May 20 12:18 npt3.xmol
+-rw-r--r--    1 tkemper  staff                    5210975 May 20 14:03 acc1_D100_n5-ZMATOPT_v3.fchk
+-rw-r--r--    1 tkemper  staff                       2705 May 20 14:04 acc1_D100_n5-ZMATOPT_v4.com
+drwxr-xr-x    3 tkemper  staff                        102 May 20 14:06 ZMATOPT
+-rw-r--r--    1 tkemper  staff                    3387294 May 20 16:05 acc1_D100_n4-ZMATOPT_v3.fchk
+-rw-r--r--    1 tkemper  staff                       2208 May 20 16:07 acc1_D100_n4-ZMATOPT_v4.com
+-rw-r--r--    1 tkemper  staff                    7431556 May 21 09:34 acc1_D100_n6-ZMATOPT_v3.fchk
+-rw-r--r--    1 tkemper  staff                       3202 May 21 09:41 acc1_D100_n6-ZMATOPT_v4.com
+-rw-r--r--    1 tkemper  staff                   49937398 May 21 10:22 npt5_dump.xyz
+-rw-r--r--    1 tkemper  staff                   61087663 May 21 10:23 npt5.xmol
+-rw-r--r--@   1 tkemper  staff                  126936780 May 22 08:23 Great_Sand_Dunes_Josh.zip
+-rw-r--r--    1 tkemper  staff                   97111238 May 22 08:36 npt6_dump.xyz
+-rw-r--r--    1 tkemper  staff                  118737816 May 22 08:37 npt6.xmol
+-rw-r--r--    1 tkemper  staff                    7426736 May 22 13:43 acc1_D100_n6-ZMATOPT_v4.fchk
+drwx------@  21 tkemper  NREL_NT\Domain Users         714 May 22 16:07 Great_Sand_Dunes_Josh
+drwxr-xr-x    5 tkemper  staff                        170 May 23 10:42 tools-master
+-rw-r--r--@   1 tkemper  staff                       3208 May 28 12:42 savedrecs (3).bib
+-rw-r--r--@   1 tkemper  staff                       1994 May 28 13:05 savedrecs (4).bib
+-rw-r--r--@   1 tkemper  staff                       1295 May 28 16:17 savedrecs (5).bib
+-rw-r--r--@   1 tkemper  staff                       2068 May 28 16:22 savedrecs (6).bib
+-rw-r--r--@   1 tkemper  staff                     124921 May 28 16:23 full_record.html
+-rw-r--r--@   1 tkemper  staff                       2188 May 28 16:25 savedrecs (7).bib
+-rw-r--r--@   1 tkemper  staff                       2187 May 28 16:26 savedrecs (8).bib
+-rw-r--r--@   1 tkemper  staff                        437 May 28 16:30 achs_mamobx34_6474.bib
+-rw-r--r--@   1 tkemper  staff                       3204 May 28 16:33 savedrecs (9).bib
+-rw-r--r--@   1 tkemper  staff                        492 May 28 16:35 1.3600342.bib
+-rw-r--r--@   1 tkemper  staff                        492 May 28 16:36 1.3600342 (1).bib
+-rw-r--r--@   1 tkemper  staff                        469 May 28 16:47 achs_langd524_474.bib
+-rw-r--r--@   1 tkemper  staff                        696 May 28 20:27 BibTeX_en
+-rw-r--r--@   1 tkemper  staff                    1513527 May 28 20:27 A Theoretical Investigation of Conformation and Electronic Structure of Poly%28m-phenylene%29 and Its Derivatives.pdf
+-rw-r--r--@   1 tkemper  staff                       3630 May 28 21:23 savedrecs (10).bib
+-rw-r--r--@   1 tkemper  staff                     200594 May 29 15:22 tools-master.zip
+-rw-r--r--@   1 tkemper  staff                  105217902 May 29 15:45 pycharm-community-3.4.dmg
+drwxr-xr-x    2 tkemper  staff                         68 May 29 16:04 clone_testing
+-rw-r--r--@   1 tkemper  staff                      15915 May 30 08:29 2014-Availablity-Calendar.xlsx
+-rw-r--r--@   1 tkemper  staff                      64715 May 30 08:29 Volunteer-Info-Sheet-2014.docx
+-rw-r--r--@   1 tkemper  staff                       4832 May 30 11:04 MDTools-0.0.2.tar.gz
+-rw-r--r--@   1 tkemper  staff                   57167583 Jun  2 09:37 Cyberduck-4.4.4.zip
+-rw-r--r--    1 tkemper  staff                      14313 Jun  2 11:31 nvt_dump.t200000.xyz
+-rw-r--r--    1 tkemper  staff                     159590 Jun  2 11:49 softmin_pair.data
+-rw-r--r--    1 tkemper  staff                     159590 Jun  2 11:49 softmin.data
+-rw-r--r--    1 tkemper  staff                     152819 Jun  2 11:49 nvt.data
+-rw-r--r--    1 tkemper  staff                     226422 Jun  2 11:49 D1_R2R200_A2_R3_n1_R41n1R41n1R40n1__n5.data
+-rw-r--r--    1 tkemper  staff                      30425 Jun  2 11:52 nvtsm.xyz
+-rw-r--r--@   1 tkemper  staff                       1397 Jun  3 16:16 savedrecs (11).bib
+-rw-r--r--@   1 tkemper  staff                        500 Jun  4 10:09 achs_jacsat118_11225.bib
+-rw-r--r--@   1 tkemper  staff                        493 Jun  4 10:14 achs_jcisd853_1191.bib
+-rw-r--r--    1 tkemper  staff                       2404 Jun  4 11:36 acc1_D1_R2R200_A2_R3__n1-ESP.xyz
+-rw-r--r--    1 tkemper  staff                        684 Jun  4 13:34 acc1_R40_n1.xyz
+-rw-r--r--    1 tkemper  staff                    5992747 Jun  4 17:47 mol_system.xyz
+drwxr-xr-x   15 tkemper  staff                        510 Jun  5 09:21 rg_testing
+drwxr-xr-x   26 tkemper  staff                        884 Jun  6 15:38 BuildingBlock_local
+-rw-r--r--    1 tkemper  staff                    1314635 Jun 10 08:40 P1_4.gro
+-rw-r--r--    1 tkemper  staff                 1073633047 Jun 11 11:19 eq1.xmol
+drwxr-xr-x    6 tkemper  staff                        204 Jun 11 16:46 poly_len_test
+-rw-------@   1 tkemper  staff                     786447 Jun 12 09:29 cVKWu_AU.part
+-rw-------@   1 tkemper  staff                       3250 Jun 12 15:55 Ve2xt_pM.part
+-rw-r--r--@   1 tkemper  staff                       6148 Jun 13 19:50 .DS_Store
+-rw-r--r--@   1 tkemper  staff                       2244 Jun 23 16:12 vmdrc.txt
+-rw-r--r--@   1 tkemper  staff                   18534937 Jun 23 16:22 scikit_image-0.10.0-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl
+-rw-r--r--@   1 tkemper  staff                   19051997 Jun 23 16:23 scikit_image-0.10.0-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl
+drwxr-xr-x   18 tkemper  staff                        612 Jun 25 16:26 testing2
+-rw-r--r--@   1 tkemper  staff                     163224 Jun 26 14:14 expat.zip
+-rw-r--r--@   1 tkemper  staff                     163224 Jun 26 14:14 expat (1).zip
+-rw-r--r--@   1 tkemper  staff                        322 Jun 26 15:04 Handbook_of_Conducting_Polymers_Second_E.bibtex
+-rw-r--r--@   1 tkemper  staff                        322 Jun 26 15:04 Handbook_of_Conducting_Polymers_Second_E (1).bibtex
+-rw-r--r--@   1 tkemper  staff                       2095 Jun 26 15:43 savedrecs (12).bib
+-rw-r--r--@   1 tkemper  staff                       2088 Jun 26 16:09 savedrecs (13).bib
+drwxr-xr-x    3 tkemper  staff                        102 Jun 26 16:47 eq_0
+drwxr-xr-x    3 tkemper  staff                        102 Jun 26 16:47 eq_1
+drwxr-xr-x    3 tkemper  staff                        102 Jun 26 16:47 eq_2
+-rw-r--r--    1 tkemper  staff                          2 Jun 26 16:47 f
+-rw-r--r--    1 tkemper  staff                       2540 Jun 27 10:06 xmol.py
+-rw-r--r--    1 tkemper  staff                      38839 Jun 27 14:28 donoracceptorsystems.py
+drwxr-xr-x    3 tkemper  staff                        102 Jun 27 14:49 temprepo
+drwxr-xr-x+ 116 tkemper  staff                       3944 Jun 27 16:47 ..
+drwx------+ 191 tkemper  staff                       6494 Jun 30 08:47 .
+stc-24232s:Downloads tkemper$ cd testing2/
+stc-24232s:testing2 tkemper$ ls
+C3.xyz                                      n5
+C3S.xyz                                     nvt_dump.C3.xmol
+C3SN.xyz                                    nvt_dump.C3SN.xmol
+D1_R2R200_A2_R3_n1_R41n1R41n1R40n1__n5.data nvt_dump.t28000.xmol
+GENSOLVENT                                  nvt_dump.t28000.xyz
+all.xyz                                     rdf.dat
+analysis.sh                                 rdf.log
+check.txt                                   t1.xmol
+stc-24232s:testing2 tkemper$ cd n5
+stc-24232s:n5 tkemper$ ls
+stc-24232s:n5 tkemper$ cd ..
+stc-24232s:testing2 tkemper$ ls
+C3.xyz                                      n5
+C3S.xyz                                     nvt_dump.C3.xmol
+C3SN.xyz                                    nvt_dump.C3SN.xmol
+D1_R2R200_A2_R3_n1_R41n1R41n1R40n1__n5.data nvt_dump.t28000.xmol
+GENSOLVENT                                  nvt_dump.t28000.xyz
+all.xyz                                     rdf.dat
+analysis.sh                                 rdf.log
+check.txt                                   t1.xmol
+stc-24232s:testing2 tkemper$ more analysis.sh 
+ python ~/Scripts/streamm/tools/AtomicPy/md/trans.py  --in_data D1_R2R200_A2_R3_n1_R41n1R41n1R40n1__n5.data  --in_lammpsxyz nvt_dump.t28000.xyz   --out_xmol t1.xmol  --filter_eln "  6 16 7 "  --filter_cord " 3 2 " 
+ python ~/Scripts/streamm/tools/AtomicPy/md/rdf.py  --in_data D1_R2R200_A2_R3_n1_R41n1R41n1R40n1__n5.data  --in_lammpsxyz nvt_dump.t28000.xyz  
+
+
+stc-24232s:testing2 tkemper$ mv * n5/
+mv: rename n5 to n5/n5: Invalid argument
+stc-24232s:testing2 tkemper$ ls
+n5
+stc-24232s:testing2 tkemper$ mv n5/GENSOLVENT/ ./
+stc-24232s:testing2 tkemper$ ls
+GENSOLVENT n5
+stc-24232s:testing2 tkemper$ mkdir 
+stc-24232s:testing2 tkemper$ cd
+stc-24232s:~ tkemper$ ls
+Applications              Library                   Public                    bin
+Applications (Parallels)  Movies                    SC                        get_results.komodoproject
+Desktop                   Music                     Scripts                   hob
+Documents                 Pictures                  Software                  opv_gen.komodoproject
+Downloads                 Projects                  Trash                     scratch
+stc-24232s:~ tkemper$ cd Scripts/tor.py 
+-bash: cd: Scripts/tor.py: Not a directory
+stc-24232s:~ tkemper$ cd Scripts/streamm
+stc-24232s:streamm tkemper$ ls
+BB_new_R               README.txt             tools
+BuildingBlocks-private opv-project            tools-public
+stc-24232s:streamm tkemper$ cd opv-project/
+stc-24232s:opv-project tkemper$ ls
+README.md                     donoracceptor.com.template.r2 setup.sh                      tools-opv
+donoracceptor.com.template    donoracceptor.pbs.template.in src
+donoracceptor.com.template.r1 mss_rsync.sh                  subset.txt.example
+stc-24232s:opv-project tkemper$ cd ../tools/
+stc-24232s:tools tkemper$ ls
+AtomicPy  README.md doc       examples  scripts   src       tests
+stc-24232s:tools tkemper$ cd tests/
+stc-24232s:tests tkemper$ ls
+opvtest     t1.xmol     test_opv.sh tst2.py     tst4.py     tst6.py
+out.xmol    test.xmol   tst1.py     tst3.py     tst5.py     xmoltest.py
+stc-24232s:tests tkemper$ cd opvtest/
+stc-24232s:opvtest tkemper$ ls
+donoracceptor.com.template    donoracceptor.com.template.r2 donoracceptor.pbs.template.in testmol
+donoracceptor.com.template.r1 donoracceptor.pbs.template    test_opv.sh
+stc-24232s:opvtest tkemper$ emacs test_opv.sh &
+[1] 5055
+stc-24232s:opvtest tkemper$ Jun 30 09:12:12 stc-24232s Aquamacs[5055] <Error>: Failed to create window context device
+Jun 30 09:12:12 stc-24232s Aquamacs[5055] <Error>: CGWindowContextCreate: failed to create window context delegate.
+2014-06-30 09:12:12.823 Aquamacs[5055:707] _initWithWindowNumber: error creating graphics ctxt object for ctxt:0x1b603, window:0xffffffff
+
+stc-24232s:opvtest tkemper$ python ../../../opv-project/src/donoracceptorsystems.py -f testmol -b ../../../BuildingBlocks-private/   -r 1  "D1  ( R2 R2 0 0 )   A2 ( R3 )"    --make_ff  
+Traceback (most recent call last):
+  File "../../../opv-project/src/donoracceptorsystems.py", line 11, in <module>
+    from structureContainer import StructureContainer
+ImportError: No module named structureContainer
+You have mail in /var/mail/tkemper
+stc-24232s:opvtest tkemper$ PYTHONPATH=/Users/tkemper/Scripts/streamm/tools/src
+stc-24232s:opvtest tkemper$ python ../../../opv-project/src/donoracceptorsystems.py -f testmol -b ../../../BuildingBlocks-private/   -r 1  "D1  ( R2 R2 0 0 )   A2 ( R3 )"    --make_ff  
+accuracy =  1
+nstates =  12
+molecules base output directory =  testmol
+using building blocks in  ../../../BuildingBlocks-private/
+Not using subsets because options.subsets_file =  None
+setting up files for input string =  D1  ( R2 R2 0 0 )   A2 ( R3 )
+key is: donors
+key is: acceptors
+key is: donors2
+key is: acceptors2
+key is: fdonors
+key is: facceptors
+key is: functional_groups
+key is: donor_functional_groups
+added null donor_functional_groups
+key is: acceptor_functional_groups
+added null acceptor_functional_groups
+key is: terminal_functional_groups
+added null terminal_functional_groups
+key is: spacer_functional_groups
+added null spacer_functional_groups
+key is: terminals
+key is: spacers
+added null spacer
+Loaded building blocks:
+donors ['D000', 'D1', 'D10', 'D100', 'D102', 'D103', 'D104', 'D105', 'D106', 'D107', 'D11', 'D12', 'D13', 'D14', 'D15', 'D16', 'D17', 'D18', 'D19', 'D2', 'D20', 'D201', 'D202', 'D203', 'D204', 'D21', 'D22', 'D23', 'D26', 'D27', 'D3', 'D38', 'D4', 'D41', 'D42', 'D43', 'D44', 'D45', 'D46', 'D47', 'D48', 'D49', 'D5', 'D52', 'D53', 'D6', 'D60', 'D7', 'D8', 'D9']
+acceptors ['A1', 'A10', 'A11', 'A12', 'A13', 'A14', 'A15', 'A16', 'A17', 'A18', 'A19', 'A2', 'A20', 'A200', 'A201', 'A202', 'A203', 'A204', 'A21', 'A22', 'A23', 'A24', 'A25', 'A26', 'A27', 'A28', 'A29', 'A29_f', 'A3', 'A30', 'A31', 'A32', 'A33', 'A34', 'A35', 'A36', 'A37', 'A38', 'A39', 'A4', 'A40', 'A41', 'A42', 'A43', 'A44', 'A45', 'A46', 'A47', 'A48', 'A49', 'A5', 'A50', 'A51', 'A54', 'A55', 'A56', 'A57', 'A58', 'A59', 'A6', 'A60', 'A61', 'A62', 'A63', 'A64', 'A65', 'A66', 'A67', 'A68', 'A69', 'A7', 'A70', 'A71', 'A72', 'A73', 'A74', 'A75', 'A76', 'A77', 'A78', 'A79', 'A8', 'A80', 'A81', 'A82', 'A83', 'A84', 'A85', 'A9']
+donors2 []
+acceptors2 []
+fdonors []
+facceptors []
+terminals ['T1', 'T2', 'T3', 'T4', 'T5']
+spacers ['Sp1', 'Sp2', 'Sp3', 'Sp4', 'Sp5', 'Sp6', 'Sp7', 'Sp8', 'Sp9', '']
+functional_groups ['f1', 'f11', 'f12', 'f13', 'f14', 'f15', 'f16', 'f2', 'f3', 'R1', 'R10', 'R11', 'R12', 'R13', 'R15', 'R16', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'Rf1', 'Rf10', 'Rf17', 'Rf18', 'Rf2', 'Rf3', 'Rf4', 'Rf5', 'Rf6', 'Rf7', 'Rf8', 'Rf9']
+donor_functional_groups ['f1', 'f11', 'f12', 'f13', 'f14', 'f15', 'f16', 'f2', 'f3', 'R1', 'R10', 'R11', 'R12', 'R13', 'R15', 'R16', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'Rf1', 'Rf10', 'Rf17', 'Rf18', 'Rf2', 'Rf3', 'Rf4', 'Rf5', 'Rf6', 'Rf7', 'Rf8', 'Rf9', '0']
+acceptor_functional_groups ['f1', 'f11', 'f12', 'f13', 'f14', 'f15', 'f16', 'f2', 'f3', 'R1', 'R10', 'R11', 'R12', 'R13', 'R15', 'R16', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'Rf1', 'Rf10', 'Rf17', 'Rf18', 'Rf2', 'Rf3', 'Rf4', 'Rf5', 'Rf6', 'Rf7', 'Rf8', 'Rf9', '0']
+terminal_functional_groups ['f1', 'f11', 'f12', 'f13', 'f14', 'f15', 'f16', 'f2', 'f3', 'R1', 'R10', 'R11', 'R12', 'R13', 'R15', 'R16', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'Rf1', 'Rf10', 'Rf17', 'Rf18', 'Rf2', 'Rf3', 'Rf4', 'Rf5', 'Rf6', 'Rf7', 'Rf8', 'Rf9', '0']
+spacer_functional_groups ['f1', 'f11', 'f12', 'f13', 'f14', 'f15', 'f16', 'f2', 'f3', 'R1', 'R10', 'R11', 'R12', 'R13', 'R15', 'R16', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'Rf1', 'Rf10', 'Rf17', 'Rf18', 'Rf2', 'Rf3', 'Rf4', 'Rf5', 'Rf6', 'Rf7', 'Rf8', 'Rf9', '0']
+Structure generation SUCCEEDED for string  D1  ( R2 R2 0 0 )   A2 ( R3 ) 
+stc-24232s:opvtest tkemper$ ls
+donoracceptor.com.template    donoracceptor.com.template.r2 donoracceptor.pbs.template.in testmol
+donoracceptor.com.template.r1 donoracceptor.pbs.template    test_opv.sh
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/
+.DS_Store               BuildingBlocks-private/ opv-project/            tools-public/           
+BB_new_R/               README.txt              tools/                  
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools
+tools/        tools-public/ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/
+.git/      AtomicPy/  README.md  doc/       examples/  scripts/   src/       tests/     
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -h
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+Usage: rdf.py [options] 
+
+
+Options:
+  -h, --help            show this help message and exit
+  -v, --verbose         Verbose output
+  -p, --ptime           Print performance information
+  -o OUTPUT_ID, --output_id=OUTPUT_ID
+                         prefix for output files
+  -j IN_JSON, --in_json=IN_JSON
+                        Input json file
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j 
+.#test_opv.sh                  donoracceptor.com.template.r2  test_opv.sh
+donoracceptor.com.template     donoracceptor.pbs.template     testmol/
+donoracceptor.com.template.r1  donoracceptor.pbs.template.in  
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j test
+test_opv.sh  testmol/     
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1
+D100/             D1_R2R200_/       D1_R2R200_A2_R3_/ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.
+acc1_D1_R2R200_A2_R3__n1.com     acc1_D1_R2R200_A2_R3__n1.pbs     acc1_D1_R2R200_A2_R3__n1.xyz
+acc1_D1_R2R200_A2_R3__n1.json    acc1_D1_R2R200_A2_R3__n1.r1.com  
+acc1_D1_R2R200_A2_R3__n1.meta    acc1_D1_R2R200_A2_R3__n1.r2.com  
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.
+acc1_D1_R2R200_A2_R3__n1.com     acc1_D1_R2R200_A2_R3__n1.pbs     acc1_D1_R2R200_A2_R3__n1.xyz
+acc1_D1_R2R200_A2_R3__n1.json    acc1_D1_R2R200_A2_R3__n1.r1.com  
+acc1_D1_R2R200_A2_R3__n1.meta    acc1_D1_R2R200_A2_R3__n1.r2.com  
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 75, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 71, in main
+    system_i = readjson(options.in_json)
+NameError: global name 'readjson' is not defined
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 75, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 71, in main
+    system_i = getsys_json(options.in_json)
+NameError: global name 'getsys_json' is not defined
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 75, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 71, in main
+    system_i = getsys_json(options.in_json)
+NameError: global name 'getsys_json' is not defined
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 103, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 99, in main
+    system_i = getsys_json(options.in_json)
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 60, in getsys_json
+    print json_data["particle"]["number_id"]
+KeyError: 'particle'
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 104, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 100, in main
+    system_i = getsys_json(options.in_json)
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 61, in getsys_json
+    print json_data["particle"]["number_id"]
+KeyError: 'particle'
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+stc-24232s:opvtest tkemper$ vi estmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+stc-24232s:opvtest tkemper$ vi testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+stc-24232s:opvtest tkemper$ vi testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 126, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 122, in main
+    system_i = getsys_json(options.in_json)
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 70, in getsys_json
+    atomic_symb = article_data["type"][p_i]
+NameError: global name 'article_data' is not defined
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+2nd arg should be string type
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 126, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 122, in main
+    system_i = getsys_json(options.in_json)
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 74, in getsys_json
+    pt = Particle( r_i,atomic_symb,q_i,m_i )
+  File "/Users/tkemper/Scripts/streamm/tools/src/particles.py", line 56, in __init__
+    raise TypeError
+TypeError
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+2nd arg should be string type
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 126, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 122, in main
+    system_i = getsys_json(options.in_json)
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 74, in getsys_json
+    pt = Particle( r_i,atomic_symb,q_i,m_i )
+  File "/Users/tkemper/Scripts/streamm/tools/src/particles.py", line 56, in __init__
+    raise TypeError
+TypeError
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+[-6.35158662, -0.18148604, 2.275e-05] C 0.0 0.0
+2nd arg should be string type
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 127, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 123, in main
+    system_i = getsys_json(options.in_json)
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 75, in getsys_json
+    pt = Particle( r_i,atomic_symb,q_i,m_i )
+  File "/Users/tkemper/Scripts/streamm/tools/src/particles.py", line 56, in __init__
+    raise TypeError
+TypeError
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+[-6.35158662, -0.18148604, 2.275e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-5.81041356, 1.13955675, -4.777e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-4.44263712, 1.38223301, -7.21e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-3.57531376, 0.27905429, -2.607e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-4.11725994, -1.04185783, 4.433e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-5.48361755, -1.28429789, 6.818e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-7.79200291, -0.16922011, 3.707e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-8.31372707, 1.08362635, -1.989e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-8.39658326, -1.06996699, 8.701e-05] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-9.35949535, 1.36242203, -2.252e-05] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-2.14266773, 0.27064613, -3.922e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-1.58945858, -0.98249139, 1.937e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-2.83604299, -2.24885881, 9.355e-05] S 0.0 0.0
+<type 'list'> S 0.0 0.0
+[-1.54832641, 1.17887329, -9.223e-05] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-7.09610128, 2.34440782, -9.283e-05] S 0.0 0.0
+<type 'list'> S 0.0 0.0
+[-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265] O 0.0 0.0
+<type 'list'> O 0.0 0.0
+[-3.862496674939292, 3.1695770288549454, 1.3446974400870355] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-3.6247143093744834, 4.212798954887015, 1.3378016514935358] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-4.802695545423445, 3.0212859904572698, 1.8335080789206861] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-3.0993875533136643, 2.6332852903009027, 1.8690595745922185] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-5.982295994225895, -2.592472115670291, 0.00013568093474675586] O 0.0 0.0
+<type 'list'> O 0.0 0.0
+[-7.199947897168653, -2.6383880698340896, 0.7485443773119098] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-7.502520276111531, -3.6568629894159974, 0.875267642387657] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-7.046121180383192, -2.1900193677852586, 1.707816412238266] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-7.962312024808819, -2.1026384899721133, 0.22254691247243968] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[2.2947585653275278, -1.3117151673317553, 0.3496977913563973] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[1.6943499618048439, -2.486344152949379, 0.033727692789972764] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[0.37944343254365587, -2.445778263070145, -0.14967137507718084] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-0.12666353690493176, -3.856222124572657, -0.4596696694340566] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[2.1796748028060824, -3.9273744513098605, -0.1379887925262068] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[3.3281908515037193, -4.356306519838379, 0.14573416934583813] O 0.0 0.0
+<type 'list'> O 0.0 0.0
+[1.0550200053001355, -4.739484819976896, -0.6907662800817697] N 0.0 0.0
+<type 'list'> N 0.0 0.0
+[3.3168431482231826, -1.1832114571251107, 0.6390590093700247] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-1.3327440642071913, -4.212513053533863, -0.5043584882249691] O 0.0 0.0
+<type 'list'> O 0.0 0.0
+[1.0751336311284163, -0.02589560352450615, 0.20762108324407588] S 0.0 0.0
+<type 'list'> S 0.0 0.0
+[0.9313522625655157, -5.993915736756458, -0.08157881760858711] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[0.4700544698736264, -6.67755611304659, -0.7632973626729483] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[1.9013619484648199, -6.35745208542634, 0.18641843009835032] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[0.32812289052585697, -5.905482214695301, 0.7977355954759532] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 128, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 124, in main
+    system_i = getsys_json(options.in_json)
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 90, in getsys_json
+    bond_i = BondContainer()
+NameError: global name 'BondContainer' is not defined
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+[-6.35158662, -0.18148604, 2.275e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-5.81041356, 1.13955675, -4.777e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-4.44263712, 1.38223301, -7.21e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-3.57531376, 0.27905429, -2.607e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-4.11725994, -1.04185783, 4.433e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-5.48361755, -1.28429789, 6.818e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-7.79200291, -0.16922011, 3.707e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-8.31372707, 1.08362635, -1.989e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-8.39658326, -1.06996699, 8.701e-05] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-9.35949535, 1.36242203, -2.252e-05] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-2.14266773, 0.27064613, -3.922e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-1.58945858, -0.98249139, 1.937e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-2.83604299, -2.24885881, 9.355e-05] S 0.0 0.0
+<type 'list'> S 0.0 0.0
+[-1.54832641, 1.17887329, -9.223e-05] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-7.09610128, 2.34440782, -9.283e-05] S 0.0 0.0
+<type 'list'> S 0.0 0.0
+[-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265] O 0.0 0.0
+<type 'list'> O 0.0 0.0
+[-3.862496674939292, 3.1695770288549454, 1.3446974400870355] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-3.6247143093744834, 4.212798954887015, 1.3378016514935358] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-4.802695545423445, 3.0212859904572698, 1.8335080789206861] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-3.0993875533136643, 2.6332852903009027, 1.8690595745922185] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-5.982295994225895, -2.592472115670291, 0.00013568093474675586] O 0.0 0.0
+<type 'list'> O 0.0 0.0
+[-7.199947897168653, -2.6383880698340896, 0.7485443773119098] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-7.502520276111531, -3.6568629894159974, 0.875267642387657] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-7.046121180383192, -2.1900193677852586, 1.707816412238266] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-7.962312024808819, -2.1026384899721133, 0.22254691247243968] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[2.2947585653275278, -1.3117151673317553, 0.3496977913563973] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[1.6943499618048439, -2.486344152949379, 0.033727692789972764] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[0.37944343254365587, -2.445778263070145, -0.14967137507718084] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[-0.12666353690493176, -3.856222124572657, -0.4596696694340566] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[2.1796748028060824, -3.9273744513098605, -0.1379887925262068] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[3.3281908515037193, -4.356306519838379, 0.14573416934583813] O 0.0 0.0
+<type 'list'> O 0.0 0.0
+[1.0550200053001355, -4.739484819976896, -0.6907662800817697] N 0.0 0.0
+<type 'list'> N 0.0 0.0
+[3.3168431482231826, -1.1832114571251107, 0.6390590093700247] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[-1.3327440642071913, -4.212513053533863, -0.5043584882249691] O 0.0 0.0
+<type 'list'> O 0.0 0.0
+[1.0751336311284163, -0.02589560352450615, 0.20762108324407588] S 0.0 0.0
+<type 'list'> S 0.0 0.0
+[0.9313522625655157, -5.993915736756458, -0.08157881760858711] C 0.0 0.0
+<type 'list'> C 0.0 0.0
+[0.4700544698736264, -6.67755611304659, -0.7632973626729483] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[1.9013619484648199, -6.35745208542634, 0.18641843009835032] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+[0.32812289052585697, -5.905482214695301, 0.7977355954759532] H 0.0 0.0
+<type 'list'> H 0.0 0.0
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[[0.0, 1.0], [0.0, 1.0], [0.0, 1.0]]
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[[1.0, 0.0, 0.0], [1.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[[1.0, 0.0, 0.0], [1.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[[1.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+[[1.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+Tag key in Particle dictionary does not exist
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+
+ Contains particle objects: 
+1 {'position': [-6.35158662, -0.18148604, 2.275e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+2 {'position': [-5.81041356, 1.13955675, -4.777e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+3 {'position': [-4.44263712, 1.38223301, -7.21e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+4 {'position': [-3.57531376, 0.27905429, -2.607e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+5 {'position': [-4.11725994, -1.04185783, 4.433e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+6 {'position': [-5.48361755, -1.28429789, 6.818e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+7 {'position': [-7.79200291, -0.16922011, 3.707e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+8 {'position': [-8.31372707, 1.08362635, -1.989e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+9 {'position': [-8.39658326, -1.06996699, 8.701e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+10 {'position': [-9.35949535, 1.36242203, -2.252e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+11 {'position': [-2.14266773, 0.27064613, -3.922e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+12 {'position': [-1.58945858, -0.98249139, 1.937e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+13 {'position': [-2.83604299, -2.24885881, 9.355e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+14 {'position': [-1.54832641, 1.17887329, -9.223e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+15 {'position': [-7.09610128, 2.34440782, -9.283e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+16 {'position': [-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+17 {'position': [-3.862496674939292, 3.1695770288549454, 1.3446974400870355], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+18 {'position': [-3.6247143093744834, 4.212798954887015, 1.3378016514935358], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+19 {'position': [-4.802695545423445, 3.0212859904572698, 1.8335080789206861], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+20 {'position': [-3.0993875533136643, 2.6332852903009027, 1.8690595745922185], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+21 {'position': [-5.982295994225895, -2.592472115670291, 0.00013568093474675586], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+22 {'position': [-7.199947897168653, -2.6383880698340896, 0.7485443773119098], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+23 {'position': [-7.502520276111531, -3.6568629894159974, 0.875267642387657], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+24 {'position': [-7.046121180383192, -2.1900193677852586, 1.707816412238266], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+25 {'position': [-7.962312024808819, -2.1026384899721133, 0.22254691247243968], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+26 {'position': [-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+27 {'position': [2.2947585653275278, -1.3117151673317553, 0.3496977913563973], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+28 {'position': [1.6943499618048439, -2.486344152949379, 0.033727692789972764], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+29 {'position': [0.37944343254365587, -2.445778263070145, -0.14967137507718084], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+30 {'position': [-0.12666353690493176, -3.856222124572657, -0.4596696694340566], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+31 {'position': [2.1796748028060824, -3.9273744513098605, -0.1379887925262068], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+32 {'position': [3.3281908515037193, -4.356306519838379, 0.14573416934583813], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+33 {'position': [1.0550200053001355, -4.739484819976896, -0.6907662800817697], 'charge': 0.0, 'type': 'N', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'N', 'fftype': u'??'}}
+34 {'position': [3.3168431482231826, -1.1832114571251107, 0.6390590093700247], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+35 {'position': [-1.3327440642071913, -4.212513053533863, -0.5043584882249691], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+36 {'position': [1.0751336311284163, -0.02589560352450615, 0.20762108324407588], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+37 {'position': [0.9313522625655157, -5.993915736756458, -0.08157881760858711], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+38 {'position': [0.4700544698736264, -6.67755611304659, -0.7632973626729483], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+39 {'position': [1.9013619484648199, -6.35745208542634, 0.18641843009835032], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+40 {'position': [0.32812289052585697, -5.905482214695301, 0.7977355954759532], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+
+[[1.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+Tag key in Particle dictionary does not exist
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+
+ Contains particle objects: 
+1 {'position': [-6.35158662, -0.18148604, 2.275e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+2 {'position': [-5.81041356, 1.13955675, -4.777e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+3 {'position': [-4.44263712, 1.38223301, -7.21e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+4 {'position': [-3.57531376, 0.27905429, -2.607e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+5 {'position': [-4.11725994, -1.04185783, 4.433e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+6 {'position': [-5.48361755, -1.28429789, 6.818e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+7 {'position': [-7.79200291, -0.16922011, 3.707e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+8 {'position': [-8.31372707, 1.08362635, -1.989e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+9 {'position': [-8.39658326, -1.06996699, 8.701e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+10 {'position': [-9.35949535, 1.36242203, -2.252e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+11 {'position': [-2.14266773, 0.27064613, -3.922e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+12 {'position': [-1.58945858, -0.98249139, 1.937e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+13 {'position': [-2.83604299, -2.24885881, 9.355e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+14 {'position': [-1.54832641, 1.17887329, -9.223e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+15 {'position': [-7.09610128, 2.34440782, -9.283e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+16 {'position': [-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+17 {'position': [-3.862496674939292, 3.1695770288549454, 1.3446974400870355], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+18 {'position': [-3.6247143093744834, 4.212798954887015, 1.3378016514935358], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+19 {'position': [-4.802695545423445, 3.0212859904572698, 1.8335080789206861], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+20 {'position': [-3.0993875533136643, 2.6332852903009027, 1.8690595745922185], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+21 {'position': [-5.982295994225895, -2.592472115670291, 0.00013568093474675586], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+22 {'position': [-7.199947897168653, -2.6383880698340896, 0.7485443773119098], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+23 {'position': [-7.502520276111531, -3.6568629894159974, 0.875267642387657], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+24 {'position': [-7.046121180383192, -2.1900193677852586, 1.707816412238266], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+25 {'position': [-7.962312024808819, -2.1026384899721133, 0.22254691247243968], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+26 {'position': [-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+27 {'position': [2.2947585653275278, -1.3117151673317553, 0.3496977913563973], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+28 {'position': [1.6943499618048439, -2.486344152949379, 0.033727692789972764], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+29 {'position': [0.37944343254365587, -2.445778263070145, -0.14967137507718084], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+30 {'position': [-0.12666353690493176, -3.856222124572657, -0.4596696694340566], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+31 {'position': [2.1796748028060824, -3.9273744513098605, -0.1379887925262068], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+32 {'position': [3.3281908515037193, -4.356306519838379, 0.14573416934583813], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+33 {'position': [1.0550200053001355, -4.739484819976896, -0.6907662800817697], 'charge': 0.0, 'type': 'N', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'N', 'fftype': u'??'}}
+34 {'position': [3.3168431482231826, -1.1832114571251107, 0.6390590093700247], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+35 {'position': [-1.3327440642071913, -4.212513053533863, -0.5043584882249691], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+36 {'position': [1.0751336311284163, -0.02589560352450615, 0.20762108324407588], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+37 {'position': [0.9313522625655157, -5.993915736756458, -0.08157881760858711], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+38 {'position': [0.4700544698736264, -6.67755611304659, -0.7632973626729483], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+39 {'position': [1.9013619484648199, -6.35745208542634, 0.18641843009835032], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+40 {'position': [0.32812289052585697, -5.905482214695301, 0.7977355954759532], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+
+[[1.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+{'fftype': ' CA '}
+Tag key in Particle dictionary does not exist
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+
+ Contains particle objects: 
+1 {'position': [-6.35158662, -0.18148604, 2.275e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+2 {'position': [-5.81041356, 1.13955675, -4.777e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+3 {'position': [-4.44263712, 1.38223301, -7.21e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+4 {'position': [-3.57531376, 0.27905429, -2.607e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+5 {'position': [-4.11725994, -1.04185783, 4.433e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+6 {'position': [-5.48361755, -1.28429789, 6.818e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+7 {'position': [-7.79200291, -0.16922011, 3.707e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+8 {'position': [-8.31372707, 1.08362635, -1.989e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+9 {'position': [-8.39658326, -1.06996699, 8.701e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+10 {'position': [-9.35949535, 1.36242203, -2.252e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+11 {'position': [-2.14266773, 0.27064613, -3.922e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+12 {'position': [-1.58945858, -0.98249139, 1.937e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+13 {'position': [-2.83604299, -2.24885881, 9.355e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+14 {'position': [-1.54832641, 1.17887329, -9.223e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+15 {'position': [-7.09610128, 2.34440782, -9.283e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+16 {'position': [-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+17 {'position': [-3.862496674939292, 3.1695770288549454, 1.3446974400870355], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+18 {'position': [-3.6247143093744834, 4.212798954887015, 1.3378016514935358], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+19 {'position': [-4.802695545423445, 3.0212859904572698, 1.8335080789206861], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+20 {'position': [-3.0993875533136643, 2.6332852903009027, 1.8690595745922185], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+21 {'position': [-5.982295994225895, -2.592472115670291, 0.00013568093474675586], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+22 {'position': [-7.199947897168653, -2.6383880698340896, 0.7485443773119098], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+23 {'position': [-7.502520276111531, -3.6568629894159974, 0.875267642387657], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+24 {'position': [-7.046121180383192, -2.1900193677852586, 1.707816412238266], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+25 {'position': [-7.962312024808819, -2.1026384899721133, 0.22254691247243968], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+26 {'position': [-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+27 {'position': [2.2947585653275278, -1.3117151673317553, 0.3496977913563973], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+28 {'position': [1.6943499618048439, -2.486344152949379, 0.033727692789972764], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+29 {'position': [0.37944343254365587, -2.445778263070145, -0.14967137507718084], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+30 {'position': [-0.12666353690493176, -3.856222124572657, -0.4596696694340566], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+31 {'position': [2.1796748028060824, -3.9273744513098605, -0.1379887925262068], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+32 {'position': [3.3281908515037193, -4.356306519838379, 0.14573416934583813], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+33 {'position': [1.0550200053001355, -4.739484819976896, -0.6907662800817697], 'charge': 0.0, 'type': 'N', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'N', 'fftype': u'??'}}
+34 {'position': [3.3168431482231826, -1.1832114571251107, 0.6390590093700247], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+35 {'position': [-1.3327440642071913, -4.212513053533863, -0.5043584882249691], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+36 {'position': [1.0751336311284163, -0.02589560352450615, 0.20762108324407588], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+37 {'position': [0.9313522625655157, -5.993915736756458, -0.08157881760858711], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+38 {'position': [0.4700544698736264, -6.67755611304659, -0.7632973626729483], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+39 {'position': [1.9013619484648199, -6.35745208542634, 0.18641843009835032], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+40 {'position': [0.32812289052585697, -5.905482214695301, 0.7977355954759532], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+
+[[1.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+Traceback (most recent call last):
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 167, in <module>
+    main()
+  File "/Users/tkemper/Scripts/streamm/tools/scripts/rdf.py", line 163, in main
+    for p_i, ptcl in struc_i(subList):
+NameError: global name 'subList' is not defined
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+
+ Contains particle objects: 
+1 {'position': [-6.35158662, -0.18148604, 2.275e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+2 {'position': [-5.81041356, 1.13955675, -4.777e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+3 {'position': [-4.44263712, 1.38223301, -7.21e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+4 {'position': [-3.57531376, 0.27905429, -2.607e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+5 {'position': [-4.11725994, -1.04185783, 4.433e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+6 {'position': [-5.48361755, -1.28429789, 6.818e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+7 {'position': [-7.79200291, -0.16922011, 3.707e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+8 {'position': [-8.31372707, 1.08362635, -1.989e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+9 {'position': [-8.39658326, -1.06996699, 8.701e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+10 {'position': [-9.35949535, 1.36242203, -2.252e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+11 {'position': [-2.14266773, 0.27064613, -3.922e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+12 {'position': [-1.58945858, -0.98249139, 1.937e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+13 {'position': [-2.83604299, -2.24885881, 9.355e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+14 {'position': [-1.54832641, 1.17887329, -9.223e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+15 {'position': [-7.09610128, 2.34440782, -9.283e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+16 {'position': [-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+17 {'position': [-3.862496674939292, 3.1695770288549454, 1.3446974400870355], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+18 {'position': [-3.6247143093744834, 4.212798954887015, 1.3378016514935358], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+19 {'position': [-4.802695545423445, 3.0212859904572698, 1.8335080789206861], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+20 {'position': [-3.0993875533136643, 2.6332852903009027, 1.8690595745922185], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+21 {'position': [-5.982295994225895, -2.592472115670291, 0.00013568093474675586], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+22 {'position': [-7.199947897168653, -2.6383880698340896, 0.7485443773119098], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+23 {'position': [-7.502520276111531, -3.6568629894159974, 0.875267642387657], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+24 {'position': [-7.046121180383192, -2.1900193677852586, 1.707816412238266], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+25 {'position': [-7.962312024808819, -2.1026384899721133, 0.22254691247243968], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+26 {'position': [-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+27 {'position': [2.2947585653275278, -1.3117151673317553, 0.3496977913563973], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+28 {'position': [1.6943499618048439, -2.486344152949379, 0.033727692789972764], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+29 {'position': [0.37944343254365587, -2.445778263070145, -0.14967137507718084], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+30 {'position': [-0.12666353690493176, -3.856222124572657, -0.4596696694340566], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+31 {'position': [2.1796748028060824, -3.9273744513098605, -0.1379887925262068], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+32 {'position': [3.3281908515037193, -4.356306519838379, 0.14573416934583813], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+33 {'position': [1.0550200053001355, -4.739484819976896, -0.6907662800817697], 'charge': 0.0, 'type': 'N', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'N', 'fftype': u'??'}}
+34 {'position': [3.3168431482231826, -1.1832114571251107, 0.6390590093700247], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+35 {'position': [-1.3327440642071913, -4.212513053533863, -0.5043584882249691], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+36 {'position': [1.0751336311284163, -0.02589560352450615, 0.20762108324407588], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+37 {'position': [0.9313522625655157, -5.993915736756458, -0.08157881760858711], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+38 {'position': [0.4700544698736264, -6.67755611304659, -0.7632973626729483], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+39 {'position': [1.9013619484648199, -6.35745208542634, 0.18641843009835032], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+40 {'position': [0.32812289052585697, -5.905482214695301, 0.7977355954759532], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+
+[[1.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+p_i =  1  ptclObj =  {'position': [-6.35158662, -0.18148604, 2.275e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  2  ptclObj =  {'position': [-5.81041356, 1.13955675, -4.777e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  3  ptclObj =  {'position': [-4.44263712, 1.38223301, -7.21e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  4  ptclObj =  {'position': [-3.57531376, 0.27905429, -2.607e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  5  ptclObj =  {'position': [-4.11725994, -1.04185783, 4.433e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  6  ptclObj =  {'position': [-5.48361755, -1.28429789, 6.818e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  7  ptclObj =  {'position': [-7.79200291, -0.16922011, 3.707e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  8  ptclObj =  {'position': [-8.31372707, 1.08362635, -1.989e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  9  ptclObj =  {'position': [-8.39658326, -1.06996699, 8.701e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  10  ptclObj =  {'position': [-9.35949535, 1.36242203, -2.252e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  11  ptclObj =  {'position': [-2.14266773, 0.27064613, -3.922e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  12  ptclObj =  {'position': [-1.58945858, -0.98249139, 1.937e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  13  ptclObj =  {'position': [-2.83604299, -2.24885881, 9.355e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+p_i =  14  ptclObj =  {'position': [-1.54832641, 1.17887329, -9.223e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  15  ptclObj =  {'position': [-7.09610128, 2.34440782, -9.283e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+p_i =  16  ptclObj =  {'position': [-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+p_i =  17  ptclObj =  {'position': [-3.862496674939292, 3.1695770288549454, 1.3446974400870355], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  18  ptclObj =  {'position': [-3.6247143093744834, 4.212798954887015, 1.3378016514935358], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  19  ptclObj =  {'position': [-4.802695545423445, 3.0212859904572698, 1.8335080789206861], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  20  ptclObj =  {'position': [-3.0993875533136643, 2.6332852903009027, 1.8690595745922185], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  21  ptclObj =  {'position': [-5.982295994225895, -2.592472115670291, 0.00013568093474675586], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+p_i =  22  ptclObj =  {'position': [-7.199947897168653, -2.6383880698340896, 0.7485443773119098], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  23  ptclObj =  {'position': [-7.502520276111531, -3.6568629894159974, 0.875267642387657], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  24  ptclObj =  {'position': [-7.046121180383192, -2.1900193677852586, 1.707816412238266], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  25  ptclObj =  {'position': [-7.962312024808819, -2.1026384899721133, 0.22254691247243968], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  26  ptclObj =  {'position': [-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  27  ptclObj =  {'position': [2.2947585653275278, -1.3117151673317553, 0.3496977913563973], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  28  ptclObj =  {'position': [1.6943499618048439, -2.486344152949379, 0.033727692789972764], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  29  ptclObj =  {'position': [0.37944343254365587, -2.445778263070145, -0.14967137507718084], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  30  ptclObj =  {'position': [-0.12666353690493176, -3.856222124572657, -0.4596696694340566], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  31  ptclObj =  {'position': [2.1796748028060824, -3.9273744513098605, -0.1379887925262068], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  32  ptclObj =  {'position': [3.3281908515037193, -4.356306519838379, 0.14573416934583813], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+p_i =  33  ptclObj =  {'position': [1.0550200053001355, -4.739484819976896, -0.6907662800817697], 'charge': 0.0, 'type': 'N', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'N', 'fftype': u'??'}}
+p_i =  34  ptclObj =  {'position': [3.3168431482231826, -1.1832114571251107, 0.6390590093700247], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  35  ptclObj =  {'position': [-1.3327440642071913, -4.212513053533863, -0.5043584882249691], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+p_i =  36  ptclObj =  {'position': [1.0751336311284163, -0.02589560352450615, 0.20762108324407588], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+p_i =  37  ptclObj =  {'position': [0.9313522625655157, -5.993915736756458, -0.08157881760858711], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  38  ptclObj =  {'position': [0.4700544698736264, -6.67755611304659, -0.7632973626729483], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  39  ptclObj =  {'position': [1.9013619484648199, -6.35745208542634, 0.18641843009835032], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  40  ptclObj =  {'position': [0.32812289052585697, -5.905482214695301, 0.7977355954759532], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ python ~/Scripts/streamm/tools/scripts/rdf.py -j testmol/D1_R2R200_A2_R3_/acc1_D1_R2R200_A2_R3__n1.json 
+ 
+Base class ParallelMsgr constructor called
+Derived class MsgrSerial constructor called
+No mpi module found, will use serial. 
+
+
+ Contains particle objects: 
+1 {'position': [-6.35158662, -0.18148604, 2.275e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+2 {'position': [-5.81041356, 1.13955675, -4.777e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+3 {'position': [-4.44263712, 1.38223301, -7.21e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+4 {'position': [-3.57531376, 0.27905429, -2.607e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+5 {'position': [-4.11725994, -1.04185783, 4.433e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+6 {'position': [-5.48361755, -1.28429789, 6.818e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+7 {'position': [-7.79200291, -0.16922011, 3.707e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+8 {'position': [-8.31372707, 1.08362635, -1.989e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+9 {'position': [-8.39658326, -1.06996699, 8.701e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+10 {'position': [-9.35949535, 1.36242203, -2.252e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+11 {'position': [-2.14266773, 0.27064613, -3.922e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+12 {'position': [-1.58945858, -0.98249139, 1.937e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+13 {'position': [-2.83604299, -2.24885881, 9.355e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+14 {'position': [-1.54832641, 1.17887329, -9.223e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+15 {'position': [-7.09610128, 2.34440782, -9.283e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+16 {'position': [-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+17 {'position': [-3.862496674939292, 3.1695770288549454, 1.3446974400870355], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+18 {'position': [-3.6247143093744834, 4.212798954887015, 1.3378016514935358], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+19 {'position': [-4.802695545423445, 3.0212859904572698, 1.8335080789206861], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+20 {'position': [-3.0993875533136643, 2.6332852903009027, 1.8690595745922185], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+21 {'position': [-5.982295994225895, -2.592472115670291, 0.00013568093474675586], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+22 {'position': [-7.199947897168653, -2.6383880698340896, 0.7485443773119098], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+23 {'position': [-7.502520276111531, -3.6568629894159974, 0.875267642387657], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+24 {'position': [-7.046121180383192, -2.1900193677852586, 1.707816412238266], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+25 {'position': [-7.962312024808819, -2.1026384899721133, 0.22254691247243968], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+26 {'position': [-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+27 {'position': [2.2947585653275278, -1.3117151673317553, 0.3496977913563973], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+28 {'position': [1.6943499618048439, -2.486344152949379, 0.033727692789972764], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+29 {'position': [0.37944343254365587, -2.445778263070145, -0.14967137507718084], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+30 {'position': [-0.12666353690493176, -3.856222124572657, -0.4596696694340566], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+31 {'position': [2.1796748028060824, -3.9273744513098605, -0.1379887925262068], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+32 {'position': [3.3281908515037193, -4.356306519838379, 0.14573416934583813], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+33 {'position': [1.0550200053001355, -4.739484819976896, -0.6907662800817697], 'charge': 0.0, 'type': 'N', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'N', 'fftype': u'??'}}
+34 {'position': [3.3168431482231826, -1.1832114571251107, 0.6390590093700247], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+35 {'position': [-1.3327440642071913, -4.212513053533863, -0.5043584882249691], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+36 {'position': [1.0751336311284163, -0.02589560352450615, 0.20762108324407588], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+37 {'position': [0.9313522625655157, -5.993915736756458, -0.08157881760858711], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+38 {'position': [0.4700544698736264, -6.67755611304659, -0.7632973626729483], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+39 {'position': [1.9013619484648199, -6.35745208542634, 0.18641843009835032], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+40 {'position': [0.32812289052585697, -5.905482214695301, 0.7977355954759532], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+
+[[1.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 0.0, 1.0]]
+p_i =  1  ptclObj =  {'position': [-6.35158662, -0.18148604, 2.275e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  2  ptclObj =  {'position': [-5.81041356, 1.13955675, -4.777e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  3  ptclObj =  {'position': [-4.44263712, 1.38223301, -7.21e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  4  ptclObj =  {'position': [-3.57531376, 0.27905429, -2.607e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  5  ptclObj =  {'position': [-4.11725994, -1.04185783, 4.433e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  6  ptclObj =  {'position': [-5.48361755, -1.28429789, 6.818e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  7  ptclObj =  {'position': [-7.79200291, -0.16922011, 3.707e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  8  ptclObj =  {'position': [-8.31372707, 1.08362635, -1.989e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  9  ptclObj =  {'position': [-8.39658326, -1.06996699, 8.701e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  10  ptclObj =  {'position': [-9.35949535, 1.36242203, -2.252e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  11  ptclObj =  {'position': [-2.14266773, 0.27064613, -3.922e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  12  ptclObj =  {'position': [-1.58945858, -0.98249139, 1.937e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  13  ptclObj =  {'position': [-2.83604299, -2.24885881, 9.355e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+p_i =  14  ptclObj =  {'position': [-1.54832641, 1.17887329, -9.223e-05], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  15  ptclObj =  {'position': [-7.09610128, 2.34440782, -9.283e-05], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+p_i =  16  ptclObj =  {'position': [-3.9436092263045532, 2.6902739713701997, -0.00014059532713540265], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+p_i =  17  ptclObj =  {'position': [-3.862496674939292, 3.1695770288549454, 1.3446974400870355], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  18  ptclObj =  {'position': [-3.6247143093744834, 4.212798954887015, 1.3378016514935358], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  19  ptclObj =  {'position': [-4.802695545423445, 3.0212859904572698, 1.8335080789206861], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  20  ptclObj =  {'position': [-3.0993875533136643, 2.6332852903009027, 1.8690595745922185], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  21  ptclObj =  {'position': [-5.982295994225895, -2.592472115670291, 0.00013568093474675586], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+p_i =  22  ptclObj =  {'position': [-7.199947897168653, -2.6383880698340896, 0.7485443773119098], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  23  ptclObj =  {'position': [-7.502520276111531, -3.6568629894159974, 0.875267642387657], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  24  ptclObj =  {'position': [-7.046121180383192, -2.1900193677852586, 1.707816412238266], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  25  ptclObj =  {'position': [-7.962312024808819, -2.1026384899721133, 0.22254691247243968], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  26  ptclObj =  {'position': [-0.2123031842493437, -1.2343703608435548, 2.0652242984988353e-05], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  27  ptclObj =  {'position': [2.2947585653275278, -1.3117151673317553, 0.3496977913563973], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  28  ptclObj =  {'position': [1.6943499618048439, -2.486344152949379, 0.033727692789972764], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  29  ptclObj =  {'position': [0.37944343254365587, -2.445778263070145, -0.14967137507718084], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  30  ptclObj =  {'position': [-0.12666353690493176, -3.856222124572657, -0.4596696694340566], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  31  ptclObj =  {'position': [2.1796748028060824, -3.9273744513098605, -0.1379887925262068], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  32  ptclObj =  {'position': [3.3281908515037193, -4.356306519838379, 0.14573416934583813], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+p_i =  33  ptclObj =  {'position': [1.0550200053001355, -4.739484819976896, -0.6907662800817697], 'charge': 0.0, 'type': 'N', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'N', 'fftype': u'??'}}
+p_i =  34  ptclObj =  {'position': [3.3168431482231826, -1.1832114571251107, 0.6390590093700247], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  35  ptclObj =  {'position': [-1.3327440642071913, -4.212513053533863, -0.5043584882249691], 'charge': 0.0, 'type': 'O', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'O', 'fftype': u'??'}}
+p_i =  36  ptclObj =  {'position': [1.0751336311284163, -0.02589560352450615, 0.20762108324407588], 'charge': 0.0, 'type': 'S', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'S', 'fftype': u'??'}}
+p_i =  37  ptclObj =  {'position': [0.9313522625655157, -5.993915736756458, -0.08157881760858711], 'charge': 0.0, 'type': 'C', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'C', 'fftype': u'??'}}
+p_i =  38  ptclObj =  {'position': [0.4700544698736264, -6.67755611304659, -0.7632973626729483], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  39  ptclObj =  {'position': [1.9013619484648199, -6.35745208542634, 0.18641843009835032], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+p_i =  40  ptclObj =  {'position': [0.32812289052585697, -5.905482214695301, 0.7977355954759532], 'charge': 0.0, 'type': 'H', 'mass': 0.0, 'tagsDict': {'residue': 1, 'chain': 1, 'linkid': u'NA', 'resname': u'NA', 'ring': 0, 'type': 'H', 'fftype': u'??'}}
+ParallelMsgr destructor called
+ 
+stc-24232s:opvtest tkemper$ 

@@ -1,0 +1,29 @@
+set term postscript eps enhanced color "Arial" 20
+set out "<structure_name>_tor.ps"
+set encoding iso_8859_1
+
+HEV=27211.38505 
+KJEV=10.36427
+HKC=627.510
+kJkc=0.23901
+KCEV=0.04336411
+
+set key top right font "Arial,20"
+
+set yrange[0:0.5]
+set xrange [0:180]
+
+ENCON=HKC
+
+set xlabel 'dihedral angle (deg)'
+set ylabel 'energy (eV)' 
+
+
+# set title '<structure_name>'
+
+<style_lines>
+
+plot <plot_lines>
+
+!ps2pdf -dDEVICEWIDTHPOINTS=430 -dDEVICEHEIGHTPOINTS=320 <structure_name>_tor.ps 
+
